@@ -1,0 +1,7 @@
+#Before you start making changes to your file
+git pull
+
+#To push changes
+git add .
+git commit -m 'your short comments here'
+git push
