@@ -7,7 +7,7 @@ This tutorial teaches you GitHub essentials like repositories, branches, commits
 No coding necessary
 To complete this tutorial, you need a GitHub.com account and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
 
-Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
+> Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
 
 
 Step 1. Create a Repository
