@@ -15,7 +15,7 @@ A repository is usually used to organize a single project. Repositories can cont
 
 Your ```hello-world``` repository can be a place where you store ideas, resources, or even share and discuss things with others.
 
-## To create a new repository
+## Step 1. To create a new repository
  1. In the upper right corner, next to your avatar or identicon, click  and then select New repository.
  2. Name your repository ```hello-world```.
  3. Write a short description.
@@ -97,3 +97,14 @@ In this final step, it’s time to bring your changes together – merging your 
  1. Click the green Merge pull request button to merge the changes into master.
  2. Click Confirm merge.
  3. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
+ 
+## Celebrate!
+By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub! :tada: :octocat: :zap:
+
+Here’s what you accomplished in this tutorial:
+
+ * Created an open source repository
+ * Started and managed a new branch
+ * Changed a file and committed those changes to GitHub
+ * Opened and merged a Pull Request
+
