@@ -44,7 +44,7 @@ Have you ever saved different versions of a file? Something like:
  
 Branches accomplish similar goals in GitHub repositories.
 
-Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
+Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our ```master``` (production) branch. When a change is ready, they merge their branch into ```master```.
 
 ### To create a new branch
  1. Go to your new repository hello-world.
