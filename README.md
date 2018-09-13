@@ -4,7 +4,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests. You’ll create your own Hello World repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.
 
-No coding necessary
+### No coding necessary
 To complete this tutorial, you need a GitHub.com account and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
 
 > Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
@@ -15,8 +15,8 @@ A repository is usually used to organize a single project. Repositories can cont
 
 Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
 
-To create a new repository
-In the upper right corner, next to your avatar or identicon, click  and then select New repository.
-Name your repository hello-world.
+## To create a new repository
+ 1. In the upper right corner, next to your avatar or identicon, click  and then select New repository.
+ 2. Name your repository hello-world.
 Write a short description.
 Select Initialize this repository with a README.
